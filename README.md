@@ -1,6 +1,6 @@
 # My Ball LIFF
 
-for develop LINE Front-end Framework Class
+for develop Submission Apps LINE Front-end Framework Class
 
 14 Januari 2020
 
